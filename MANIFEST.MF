@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Jose Ricardo Mendoza C
+Main-Class: Bienvenida
+X-COMMENT: Este fue mi primer programa
